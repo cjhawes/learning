@@ -23,7 +23,6 @@ public static class LeetOne
             {
                 if (numbers[i] + numbers[j] == target && i != j)
                     return new int[] { i, j };
-                else continue;
             }
         }
         return null!;

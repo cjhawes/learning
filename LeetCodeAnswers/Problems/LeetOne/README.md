@@ -2,7 +2,7 @@
 
 ## Problem
 
-Given an array of integers and a target value find the two distinct values in the array that produce said target.
+Given an array of integers and a target value find the index of two distinct values in the array that produce said target.
 
 ## Solution
 
