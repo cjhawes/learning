@@ -7,4 +7,4 @@ This is a mono-repo of my various learning tangents. A place to store notes and 
 ## Contents
 
 > 1. [LeetCode Problems](./LeetCodeAnswers/README.md)
-> 2. [Introduction to Algorithms Practice]()
+> 2. [Introduction to Algorithms](./IntroductionToAlgorithms/README.md)

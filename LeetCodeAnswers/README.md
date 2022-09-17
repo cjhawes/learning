@@ -12,3 +12,12 @@ Starting with C# alone I will solve at least two problems daily, taking as long 
 
 > 1. [Two Sum](./Problems/LeetOne/README.md)
 > 2. [Add Two Numbers](./Problems/LeetTwo/README.md)
+> 15. [Three Sum*](./Problems/LeetFifteen/README.md)
+> 21. [Merge Two Sorted Lists*](./Problems/LeetTwentyOne/README.md)
+> 34. [Find First and Last Position of Element in Sorted Array*](./Problems/LeetThirtyFour/README.md)
+> 56. [Merge Intervals*](./Problems/LeetFiftySix/README.md)
+> 72. [Edit Distance*](./Problems/LeetSeventyTwo/README.md)
+> 102. [Binary Tree Level Order Traversal*](./Problems/LeetOneHundredAndTwo/README.md)
+> 200. [Number of Islands*](./Problems/LeetTwoHundred/README.md)
+
+N.B. An asterisk after a problems name denotes a key area of learning.
