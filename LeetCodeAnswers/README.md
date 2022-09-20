@@ -19,5 +19,6 @@ Starting with C# alone I will solve at least two problems daily, taking as long 
 > 72. [Edit Distance*](./Problems/LeetSeventyTwo/README.md)
 > 102. [Binary Tree Level Order Traversal*](./Problems/LeetOneHundredAndTwo/README.md)
 > 200. [Number of Islands*](./Problems/LeetTwoHundred/README.md)
+> 206. [Reverse Linked List*](./Problems/LeetTwoHundredAndSix/README.md)
 
 N.B. An asterisk after a problems name denotes a key area of learning.
